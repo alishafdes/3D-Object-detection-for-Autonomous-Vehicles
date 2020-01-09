@@ -1,6 +1,6 @@
 # 3D-Object-detection-for-Autonomous-Vehicles
 
-![alt text]()
+![alt text](https://www.chp.ca.gov/CommercialVehicleSectionSite/PublishingImages/Pages/Autonomous-Vehicles/Autonomuos%20Vehicles.PNG)
 
 Our project focuses on 3D Object Detection of Lyft’s autonomous vehicles. We used the Lyft dataset which was part of a [kaggle competition](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/overview). We used to 3D point cloud data as well as camera data to perform both segmentation and localization. 
 
